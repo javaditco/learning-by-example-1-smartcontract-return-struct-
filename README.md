@@ -1,4 +1,4 @@
-# learning-smartcontract-return-struct
+# learning by example (#1): smartcontract return struct
 Learning by example: Smartcontract, return struct
 
 Solidity version: 0.8.10
